@@ -1,0 +1,15 @@
+{
+  "name": "nodecap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inu1255",
+  "license": "MIT",
+  "dependencies": {
+    "http-parser-js": "^0.4.9",
+    "pcap": "git+https://github.com/mranney/node_pcap.git"
+  }
+}
